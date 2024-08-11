@@ -1,5 +1,5 @@
 #################################################################################################################################
-#     @file     :    plot_configuration.py  
+#     @file     :    plot_config.py  
 #
 #     @brief    :    Variables for Data Visualisation Styling
 #
